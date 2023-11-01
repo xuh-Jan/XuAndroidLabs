@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Xu\'s Android Labs</string>
-    <string name="hello_message">你好，世界！</string>
-    <string name="button_message">我是一个按钮</string>
-    <string name="edit_message">我是编辑信息</string>
-    <string name="hint_message">我是隐藏信息</string>
-    <string name="compoundbtn_message">我是复合信息</string>
+    <string name="button1">按钮 1</string>
+    <string name="button2">按钮 2</string>
+    <string name="button3">按钮 3</string>
+    <string name="spin_message">转起来</string> <!-- Provide the translated string for spinning message -->
 </resources>
